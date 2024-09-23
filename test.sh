@@ -1,3 +1,3 @@
 date
-#time 
+
 time
